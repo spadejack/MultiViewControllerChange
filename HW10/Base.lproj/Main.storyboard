@@ -80,6 +80,11 @@
                     </view>
                     <navigationItem key="navigationItem" id="smb-HU-Chn"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+                    <connections>
+                        <outlet property="firstGF" destination="7kY-GL-lXb" id="4sp-Md-nVv"/>
+                        <outlet property="secondGF" destination="sl0-de-aLa" id="VOB-Gm-BJw"/>
+                        <outlet property="thirdGF" destination="uaC-eg-Sa6" id="DJs-Nu-eua"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Iax-xc-ZCG" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
