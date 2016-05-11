@@ -48,9 +48,9 @@ class FirstViewController: UIViewController {
         case .one:
             self.firstGF.setTitle(newName, forState: .Normal)
         case .two:
-            self.firstGF.setTitle(newName, forState: .Normal)
+            self.secondGF.setTitle(newName, forState: .Normal)
         case .three:
-            self.firstGF.setTitle(newName, forState: .Normal)
+            self.thirdGF.setTitle(newName, forState: .Normal)
         }
         
     }
